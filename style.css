@@ -44,16 +44,6 @@ html{
     align-items: center;
     color: white;
 }
-#home::before{
-    content: "";
-    position: center;
-    top: 0;
-    background: url('D:\pics\1614171945916.jpg') no-repeat center center/cover;
-    height: 900px;
-    width: 100%;
-    z-index: -1;
-    opacity: .8;
-}
 .main{
     display: flex;
     flex-direction: column;
